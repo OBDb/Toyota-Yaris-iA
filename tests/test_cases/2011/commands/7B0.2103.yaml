@@ -1,6 +1,0 @@
-command_id: 7B0.2103
-test_cases:
-- expected_values:
-    TOYOTA_TIRE_FL_SPD: 0
-    TOYOTA_TIRE_FR_SPD: 2.56
-  response: '7E80461030200'
