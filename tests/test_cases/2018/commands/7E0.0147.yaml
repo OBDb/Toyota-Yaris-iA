@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     TP_B: 21.17647
   response: '7E803414736'
+- expected_values:
+    TP_B: 21.96078
+  response: '7E803414738'
