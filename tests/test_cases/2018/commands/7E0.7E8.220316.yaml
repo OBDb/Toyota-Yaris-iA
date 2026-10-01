@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220316
+test_cases:
+- expected_values:
+    YARIS_IA_VCT_INT_DUTY: 0
+  response: '7E8056203160000'
+- expected_values:
+    YARIS_IA_VCT_INT_DUTY: 32.79724
+  response: 7E80562031629FB
+- expected_values:
+    YARIS_IA_VCT_INT_DUTY: 45.224
+  response: 7E80562031639E3

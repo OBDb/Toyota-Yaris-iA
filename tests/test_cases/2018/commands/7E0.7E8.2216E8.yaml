@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2216E8
+test_cases:
+- expected_values:
+    YARIS_IA_GEN_FC: 37.79355
+  response: 7E8056216E83060
+- expected_values:
+    YARIS_IA_GEN_FC: 38.93797
+  response: 7E8056216E831D7
+- expected_values:
+    YARIS_IA_GEN_FC: 40.6775
+  response: 7E8056216E83411
+- expected_values:
+    YARIS_IA_GEN_FC: 67.50286
+  response: 7E8056216E85667

@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.221310
+test_cases:
+- expected_values:
+    YARIS_IA_EOT: 21.23
+  response: 7E80562131017EB
+- expected_values:
+    YARIS_IA_EOT: 34.09
+  response: 7E8056213101CF1
+- expected_values:
+    YARIS_IA_EOT: 39.64
+  response: 7E8056213101F1C
+- expected_values:
+    YARIS_IA_EOT: 58.46
+  response: '7E8056213102676'

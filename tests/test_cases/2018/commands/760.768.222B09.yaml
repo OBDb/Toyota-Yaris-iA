@@ -1,0 +1,32 @@
+command_id: 760.768.222B09
+test_cases:
+- expected_values:
+    YARIS_IA_RL_VSS: 0
+  response: 76804622B0900
+- expected_values:
+    YARIS_IA_RL_VSS: 6
+  response: 76804622B0906
+- expected_values:
+    YARIS_IA_RL_VSS: 7
+  response: 76804622B0907
+- expected_values:
+    YARIS_IA_RL_VSS: 13
+  response: 76804622B090D
+- expected_values:
+    YARIS_IA_RL_VSS: 26
+  response: 76804622B091A
+- expected_values:
+    YARIS_IA_RL_VSS: 28
+  response: 76804622B091C
+- expected_values:
+    YARIS_IA_RL_VSS: 49
+  response: 76804622B0931
+- expected_values:
+    YARIS_IA_RL_VSS: 52
+  response: 76804622B0934
+- expected_values:
+    YARIS_IA_RL_VSS: 64
+  response: 76804622B0940
+- expected_values:
+    YARIS_IA_RL_VSS: 67
+  response: 76804622B0943

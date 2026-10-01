@@ -1,0 +1,26 @@
+command_id: 760.768.22DD01
+test_cases:
+- expected_values:
+    YARIS_IA_ODO_BCM: 91796
+  response: 7680662DD01016694
+- expected_values:
+    YARIS_IA_ODO_BCM: 91797
+  response: 7680662DD01016695
+- expected_values:
+    YARIS_IA_ODO_BCM: 91798
+  response: 7680662DD01016696
+- expected_values:
+    YARIS_IA_ODO_BCM: 91799
+  response: 7680662DD01016697
+- expected_values:
+    YARIS_IA_ODO_BCM: 91800
+  response: 7680662DD01016698
+- expected_values:
+    YARIS_IA_ODO_BCM: 91801
+  response: 7680662DD01016699
+- expected_values:
+    YARIS_IA_ODO_BCM: 91802
+  response: 7680662DD0101669A
+- expected_values:
+    YARIS_IA_ODO_BCM: 16777215
+  response: 7680662DD01FFFFFF

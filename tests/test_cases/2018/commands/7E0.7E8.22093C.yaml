@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22093C
+test_cases:
+- expected_values:
+    YARIS_IA_ETC_ACT_DEG: 0.4082
+  response: 7E80562093C00D1
+- expected_values:
+    YARIS_IA_ETC_ACT_DEG: 4.48438
+  response: 7E80562093C08F8
+- expected_values:
+    YARIS_IA_ETC_ACT_DEG: 8.02148
+  response: 7E80562093C100B
+- expected_values:
+    YARIS_IA_ETC_ACT_DEG: 16.78906
+  response: 7E80562093C2194
