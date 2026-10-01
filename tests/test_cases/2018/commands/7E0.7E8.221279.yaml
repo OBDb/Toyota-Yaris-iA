@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.221279
+test_cases:
+- expected_values:
+    YARIS_IA_IAT_SENS_V: 2.24829
+  response: 7E80562127901CC
+- expected_values:
+    YARIS_IA_IAT_SENS_V: 2.33138
+  response: 7E80562127901DD

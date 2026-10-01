@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220393
+test_cases:
+- expected_values:
+    YARIS_IA_AC_P: 178.97658
+  response: '7E8056203930269'
+- expected_values:
+    YARIS_IA_AC_P: 221.03753
+  response: 7E80562039302FA
+- expected_values:
+    YARIS_IA_AC_P: 225.67874
+  response: 7E805620393030A

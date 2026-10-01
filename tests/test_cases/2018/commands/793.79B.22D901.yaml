@@ -1,0 +1,11 @@
+command_id: 793.79B.22D901
+test_cases:
+- expected_values:
+    YARIS_IA_CC_TGT_DIST: 3
+  response: 79B0562D901000C
+- expected_values:
+    YARIS_IA_CC_TGT_DIST: 6.75
+  response: 79B0562D901001B
+- expected_values:
+    YARIS_IA_CC_TGT_DIST: 15.75
+  response: 79B0562D901003F

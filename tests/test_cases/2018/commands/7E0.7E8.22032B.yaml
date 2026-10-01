@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.22032B
+test_cases:
+- expected_values:
+    YARIS_IA_ACC_POS: 0
+  response: 7E80462032B00
+- expected_values:
+    YARIS_IA_ACC_POS: 9
+  response: 7E80462032B12
+- expected_values:
+    YARIS_IA_ACC_POS: 14.5
+  response: 7E80462032B1D
+- expected_values:
+    YARIS_IA_ACC_POS: 15
+  response: 7E80462032B1E
+- expected_values:
+    YARIS_IA_ACC_POS: 20.5
+  response: 7E80462032B29
+- expected_values:
+    YARIS_IA_ACC_POS: 24.5
+  response: 7E80462032B31
+- expected_values:
+    YARIS_IA_ACC_POS: 26.5
+  response: 7E80462032B35

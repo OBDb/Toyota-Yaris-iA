@@ -1,0 +1,29 @@
+command_id: 7E0.7E8.221166
+test_cases:
+- expected_values:
+    YARIS_IA_EVAP_PURGE_CMD: 0
+  response: '7E8056211660000'
+- expected_values:
+    YARIS_IA_EVAP_PURGE_CMD: 9.24988
+  response: 7E8056211660BD7
+- expected_values:
+    YARIS_IA_EVAP_PURGE_CMD: 10.2478
+  response: 7E8056211660D1E
+- expected_values:
+    YARIS_IA_EVAP_PURGE_CMD: 12.60986
+  response: '7E8056211661024'
+- expected_values:
+    YARIS_IA_EVAP_PURGE_CMD: 17.01965
+  response: 7E80562116615C9
+- expected_values:
+    YARIS_IA_EVAP_PURGE_CMD: 37.27112
+  response: 7E8056211662FB5
+- expected_values:
+    YARIS_IA_EVAP_PURGE_CMD: 43.08777
+  response: '7E8056211663727'
+- expected_values:
+    YARIS_IA_EVAP_PURGE_CMD: 53.48206
+  response: '7E8056211664475'
+- expected_values:
+    YARIS_IA_EVAP_PURGE_CMD: 67.39502
+  response: '7E8056211665644'

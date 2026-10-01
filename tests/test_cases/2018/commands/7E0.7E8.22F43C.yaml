@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22F43C
+test_cases:
+- expected_values:
+    YARIS_IA_CAT_TEMP: 408.9
+  response: 7E80562F43C1189
+- expected_values:
+    YARIS_IA_CAT_TEMP: 523.8
+  response: 7E80562F43C1606
+- expected_values:
+    YARIS_IA_CAT_TEMP: 571.2
+  response: 7E80562F43C17E0
+- expected_values:
+    YARIS_IA_CAT_TEMP: 627.9
+  response: 7E80562F43C1A17
