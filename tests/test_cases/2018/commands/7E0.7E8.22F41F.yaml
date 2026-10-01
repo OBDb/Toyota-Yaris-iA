@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22F41F
+test_cases:
+- expected_values:
+    YARIS_IA_RUN_TIME: 36
+  response: 7E80562F41F0024
+- expected_values:
+    YARIS_IA_RUN_TIME: 246
+  response: 7E80562F41F00F6
+- expected_values:
+    YARIS_IA_RUN_TIME: 277
+  response: 7E80562F41F0115

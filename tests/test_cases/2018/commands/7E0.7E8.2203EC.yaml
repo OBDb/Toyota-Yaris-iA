@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2203EC
+test_cases:
+- expected_values:
+    YARIS_IA_IGN_CORR_CYL1: 0
+  response: 7E8056203EC0000
+- expected_values:
+    YARIS_IA_IGN_CORR_CYL1: 0.22461
+  response: 7E8056203EC0073
+- expected_values:
+    YARIS_IA_IGN_CORR_CYL1: -1.16797
+  response: 7E8056203ECFDAA
+- expected_values:
+    YARIS_IA_IGN_CORR_CYL1: -1
+  response: 7E8056203ECFE00

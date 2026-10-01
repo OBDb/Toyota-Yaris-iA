@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22F40B
+test_cases:
+- expected_values:
+    YARIS_IA_MAP_7E0: 2.75574
+  response: 7E80462F40B13
+- expected_values:
+    YARIS_IA_MAP_7E0: 12.76343
+  response: 7E80462F40B58

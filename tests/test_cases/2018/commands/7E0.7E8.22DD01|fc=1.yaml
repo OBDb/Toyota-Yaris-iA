@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.22DD01|fc=1
+test_cases:
+- expected_values:
+    YARIS_IA_ODO: 91796
+  response: 7E80662DD01016694
+- expected_values:
+    YARIS_IA_ODO: 91797
+  response: 7E80662DD01016695
+- expected_values:
+    YARIS_IA_ODO: 91798
+  response: 7E80662DD01016696
+- expected_values:
+    YARIS_IA_ODO: 91799
+  response: 7E80662DD01016697
+- expected_values:
+    YARIS_IA_ODO: 91800
+  response: 7E80662DD01016698
+- expected_values:
+    YARIS_IA_ODO: 91801
+  response: 7E80662DD01016699
+- expected_values:
+    YARIS_IA_ODO: 91802
+  response: 7E80662DD0101669A

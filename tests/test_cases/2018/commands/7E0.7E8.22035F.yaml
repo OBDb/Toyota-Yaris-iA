@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22035F
+test_cases:
+- expected_values:
+    YARIS_IA_RO2_V: 0
+  response: 7E80562035F0000
+- expected_values:
+    YARIS_IA_RO2_V: 1
+  response: 7E80562035FFFFB
+- expected_values:
+    YARIS_IA_RO2_V: 1
+  response: 7E80562035FFFFC
