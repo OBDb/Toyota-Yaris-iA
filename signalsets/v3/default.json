@@ -1,4 +1,20 @@
 { "commands": [
+{ "hdr": "720", "rax": "728", "dbg": true, "cmd": {"22": "2A05"}, "freq": 15,
+  "signals": [
+    {"id": "YARIS_IA_TP_1", "path": "Tires", "fmt": { "len": 8, "max": 3.5, "mul": 1373, "div": 100000, "nullmax": 3.5, "unit": "bars" }, "name": "Tire pressure, wheel 1"}
+  ]},
+{ "hdr": "720", "rax": "728", "dbg": true, "cmd": {"22": "2A06"}, "freq": 15,
+  "signals": [
+    {"id": "YARIS_IA_TP_2", "path": "Tires", "fmt": { "len": 8, "max": 3.5, "mul": 1373, "div": 100000, "nullmax": 3.5, "unit": "bars" }, "name": "Tire pressure, wheel 2"}
+  ]},
+{ "hdr": "720", "rax": "728", "dbg": true, "cmd": {"22": "2A07"}, "freq": 15,
+  "signals": [
+    {"id": "YARIS_IA_TP_3", "path": "Tires", "fmt": { "len": 8, "max": 3.5, "mul": 1373, "div": 100000, "nullmax": 3.5, "unit": "bars" }, "name": "Tire pressure, wheel 3"}
+  ]},
+{ "hdr": "720", "rax": "728", "dbg": true, "cmd": {"22": "2A08"}, "freq": 15,
+  "signals": [
+    {"id": "YARIS_IA_TP_4", "path": "Tires", "fmt": { "len": 8, "max": 3.5, "mul": 1373, "div": 100000, "nullmax": 3.5, "unit": "bars" }, "name": "Tire pressure, wheel 4"}
+  ]},
 { "hdr": "720", "rax": "728", "dbg": true, "cmd": {"22": "61B1"}, "freq": 1,
   "signals": [
     {"id": "YARIS_IA_FUEL_LEVEL", "path": "Fuel", "fmt": { "len": 8, "max": 55, "unit": "liters" }, "name": "Fuel level"}
@@ -42,6 +58,10 @@
 { "hdr": "760", "rax": "768", "dbg": true, "cmd": {"22": "DD01"}, "freq": 5,
   "signals": [
     {"id": "YARIS_IA_ODO_BCM", "path": "Trips", "fmt": { "len": 24, "max": 16777215, "unit": "kilometers" }, "name": "Odometer, stability control module"}
+  ]},
+{ "hdr": "793", "rax": "79B", "dbg": true, "cmd": {"22": "D901"}, "freq": 0.25,
+  "signals": [
+    {"id": "YARIS_IA_CC_TGT_DIST", "path": "Cruise control", "fmt": {"bix": 8, "len": 8, "max": 63.75, "div": 4, "unit": "meters" }, "name": "Distance from bumper to target"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "0202"}, "freq": 3600,
   "signals": [
