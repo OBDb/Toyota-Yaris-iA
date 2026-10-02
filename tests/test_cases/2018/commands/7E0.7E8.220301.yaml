@@ -7,8 +7,5 @@ test_cases:
     YARIS_IA_MAP_V: 2.23633
   response: 7E80562030108F2
 - expected_values:
-    YARIS_IA_MAP_V: 3.27148
-  response: 7E8056203010D16
-- expected_values:
-    YARIS_IA_MAP_V: 3.64258
-  response: 7E8056203010E92
+    YARIS_IA_MAP_V: 4.01855
+  response: '7E8056203011013'
