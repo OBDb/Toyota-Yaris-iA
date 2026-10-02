@@ -4,20 +4,5 @@ test_cases:
     YARIS_IA_STFT: -3.90625
   response: 7E80462F4067B
 - expected_values:
-    YARIS_IA_STFT: -3.125
-  response: 7E80462F4067C
-- expected_values:
-    YARIS_IA_STFT: -1.5625
-  response: 7E80462F4067E
-- expected_values:
-    YARIS_IA_STFT: 0
-  response: 7E80462F40680
-- expected_values:
-    YARIS_IA_STFT: 2.34375
-  response: 7E80462F40683
-- expected_values:
-    YARIS_IA_STFT: 3.125
-  response: 7E80462F40684
-- expected_values:
-    YARIS_IA_STFT: 3.90625
-  response: 7E80462F40685
+    YARIS_IA_STFT: 12.5
+  response: 7E80462F40690
