@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     YARIS_IA_PARKING_BRAKE_760: 1
   response: 76807622B0080000000
+- expected_values:
+    YARIS_IA_PARKING_BRAKE_760: 1
+  response: 76807622B00A0000000

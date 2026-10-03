@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     YARIS_IA_OAR: 0
   response: 7E8056203E8E78E
+- expected_values:
+    YARIS_IA_OAR: 0
+  response: 7E8056203E8FA0D
