@@ -10,5 +10,5 @@ test_cases:
     YARIS_IA_EOT: 39.64
   response: 7E8056213101F1C
 - expected_values:
-    YARIS_IA_EOT: 58.46
-  response: '7E8056213102676'
+    YARIS_IA_EOT: 61.34
+  response: '7E8056213102796'

@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     YARIS_IA_CL_LC: 3.9
   response: 7E8056203BD7FFF
+- expected_values:
+    YARIS_IA_CL_LC: -0.70142
+  response: 7E8056203BDE98E

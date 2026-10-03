@@ -5,6 +5,9 @@ test_cases:
   response: 728046261B14E
 - expected_values:
     YARIS_IA_FUEL_LEVEL: 55
+  response: 728046261B14F
+- expected_values:
+    YARIS_IA_FUEL_LEVEL: 55
   response: 728046261B151
 - expected_values:
     YARIS_IA_FUEL_LEVEL: 55
