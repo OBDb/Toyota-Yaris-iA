@@ -4,5 +4,5 @@ test_cases:
     YARIS_IA_ENG_LOAD_PCT: 14.11765
   response: 7E80462F40424
 - expected_values:
-    YARIS_IA_ENG_LOAD_PCT: 99.60784
-  response: 7E80462F404FE
+    YARIS_IA_ENG_LOAD_PCT: 100
+  response: 7E80462F404FF
