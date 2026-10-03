@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22F404
 test_cases:
 - expected_values:
-    YARIS_IA_ENG_LOAD_PCT: 15.29412
-  response: 7E80462F40427
+    YARIS_IA_ENG_LOAD_PCT: 14.11765
+  response: 7E80462F40424
 - expected_values:
-    YARIS_IA_ENG_LOAD_PCT: 93.33333
-  response: 7E80462F404EE
+    YARIS_IA_ENG_LOAD_PCT: 99.60784
+  response: 7E80462F404FE
