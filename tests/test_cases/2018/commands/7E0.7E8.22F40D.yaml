@@ -4,5 +4,5 @@ test_cases:
     YARIS_IA_VSS: 0
   response: 7E80462F40D00
 - expected_values:
-    YARIS_IA_VSS: 96
-  response: 7E80462F40D60
+    YARIS_IA_VSS: 119
+  response: 7E80462F40D77
