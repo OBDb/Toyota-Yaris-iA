@@ -21,3 +21,6 @@ test_cases:
 - expected_values:
     YARIS_IA_ODO: 91802
   response: 7E80662DD0101669A
+- expected_values:
+    YARIS_IA_ODO: 91826
+  response: 7E80662DD010166B2

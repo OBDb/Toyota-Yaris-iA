@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     YARIS_IA_DIST_DTC_CLR: 16468
   response: 7E80562F4314054
+- expected_values:
+    YARIS_IA_DIST_DTC_CLR: 16497
+  response: 7E80562F4314071
