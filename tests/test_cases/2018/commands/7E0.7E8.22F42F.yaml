@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22F42F
 test_cases:
 - expected_values:
-    YARIS_IA_FLI: 34.11765
-  response: 7E80462F42F57
+    YARIS_IA_FLI: 32.15686
+  response: 7E80462F42F52
 - expected_values:
     YARIS_IA_FLI: 94.90196
   response: 7E80462F42FF2
