@@ -1,26 +1,26 @@
 command_id: 720.728.2261B1
 test_cases:
 - expected_values:
-    YARIS_IA_FUEL_LEVEL: 55
+    YARIS_IA_FUEL_LEVEL: 78
   response: 728046261B14E
 - expected_values:
-    YARIS_IA_FUEL_LEVEL: 55
+    YARIS_IA_FUEL_LEVEL: 79
   response: 728046261B14F
 - expected_values:
-    YARIS_IA_FUEL_LEVEL: 55
+    YARIS_IA_FUEL_LEVEL: 81
   response: 728046261B151
 - expected_values:
-    YARIS_IA_FUEL_LEVEL: 55
+    YARIS_IA_FUEL_LEVEL: 82
   response: 728046261B152
 - expected_values:
-    YARIS_IA_FUEL_LEVEL: 55
+    YARIS_IA_FUEL_LEVEL: 83
   response: 728046261B153
 - expected_values:
-    YARIS_IA_FUEL_LEVEL: 55
+    YARIS_IA_FUEL_LEVEL: 85
   response: 728046261B155
 - expected_values:
-    YARIS_IA_FUEL_LEVEL: 55
+    YARIS_IA_FUEL_LEVEL: 86
   response: 728046261B156
 - expected_values:
-    YARIS_IA_FUEL_LEVEL: 55
+    YARIS_IA_FUEL_LEVEL: 95
   response: 728046261B15F

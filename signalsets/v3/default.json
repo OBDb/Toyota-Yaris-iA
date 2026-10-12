@@ -21,7 +21,7 @@
   ]},
 { "hdr": "720", "rax": "728", "cmd": {"22": "61B1"}, "freq": 1, "dbgfilter": { "to": 2017, "from": 2019 },
   "signals": [
-    {"id": "YARIS_IA_FUEL_LEVEL", "path": "Fuel", "fmt": { "len": 8, "max": 55, "unit": "liters" }, "name": "Fuel level"}
+    {"id": "YARIS_IA_FUEL_LEVEL", "path": "Fuel", "fmt": { "len": 8, "max": 100, "unit": "percent" }, "name": "Fuel level"}
   ]},
 { "hdr": "720", "rax": "728", "cmd": {"22": "DD01"}, "freq": 30, "dbgfilter": { "to": 2017, "from": 2019 },
   "signals": [
@@ -61,7 +61,7 @@
   ]},
 { "hdr": "760", "rax": "768", "cmd": {"22": "DD01"}, "freq": 5, "dbgfilter": { "to": 2017, "from": 2019 },
   "signals": [
-    {"id": "YARIS_IA_ODO_BCM", "path": "Trips", "fmt": { "len": 24, "max": 16777215, "unit": "kilometers" }, "name": "Odometer, stability control module"}
+    {"id": "YARIS_IA_ODO_BCM", "path": "Trips", "fmt": { "len": 24, "max": 16777215, "nullmax": 16777215, "unit": "kilometers" }, "name": "Odometer, stability control module"}
   ]},
 { "hdr": "793", "rax": "79B", "cmd": {"22": "D901"}, "freq": 0.25, "dbgfilter": { "to": 2017, "from": 2019 },
   "signals": [
