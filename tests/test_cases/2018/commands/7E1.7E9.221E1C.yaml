@@ -1,6 +1,9 @@
 command_id: 7E1.7E9.221E1C
 test_cases:
 - expected_values:
+    YARIS_IA_TRANS_T_V6: 59
+  response: 7E905621E1C00F0
+- expected_values:
     YARIS_IA_TRANS_T_V6: 60.6875
   response: 7E905621E1C00FF
 - expected_values:
