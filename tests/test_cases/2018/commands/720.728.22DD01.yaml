@@ -10,5 +10,5 @@ test_cases:
     YARIS_IA_ODO_720: 91904
   response: 7280662DD01016700
 - expected_values:
-    YARIS_IA_ODO_720: 92672
-  response: 7280662DD01016A00
+    YARIS_IA_ODO_720: 92928
+  response: 7280662DD01016B00
