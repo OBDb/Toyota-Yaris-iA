@@ -4,8 +4,8 @@ test_cases:
     YARIS_IA_OAR: 0
   response: 7E8056203E80000
 - expected_values:
-    YARIS_IA_OAR: 0
+    YARIS_IA_OAR: -0.38196
   response: 7E8056203E8E78E
 - expected_values:
-    YARIS_IA_OAR: 0
+    YARIS_IA_OAR: -0.09296
   response: 7E8056203E8FA0D

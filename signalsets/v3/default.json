@@ -125,7 +125,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "03E8"}, "freq": 3600, "dbgfilter": { "to": 2017, "from": 2019 },
   "signals": [
-    {"id": "YARIS_IA_OAR", "fmt": { "len": 16, "max": 1, "div": 16384, "sign": true, "unit": "scalar" }, "name": "Octane adjust ratio"}
+    {"id": "YARIS_IA_OAR", "fmt": { "len": 16, "max": 1, "min": -1, "div": 16384, "sign": true, "unit": "scalar" }, "name": "Octane adjust ratio"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "03EC"}, "freq": 0.25, "dbgfilter": { "to": 2017, "from": 2019 },
   "signals": [
